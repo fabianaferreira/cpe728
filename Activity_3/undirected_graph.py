@@ -1,3 +1,10 @@
+"""
+Activity 3/1: networkx
+Author: Fabiana Ferreira Fonseca
+PEE - COPPE/UFRJ
+2021.1
+"""
+
 import networkx as nx
 import matplotlib.pyplot as plt
 
